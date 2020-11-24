@@ -2,7 +2,7 @@ from selectorlib import Extractor
 import requests 
 import json 
 from time import sleep
-
+#this is scraper pages
 
 # Create an Extractor by reading from the YAML file
 e = Extractor.from_yaml_file('selectors.yml')
